@@ -6,6 +6,7 @@ Add tasks
 Mark tasks as complete
 Delete tasks
 Clear all tasks
+
 Data persistence (tasks are saved even after closing the browser)
 
 
