@@ -12,7 +12,6 @@ footer {
     font-size: 16px;
    
 }
-
 .container {
     width: 100%;
     min-height:100vh;
@@ -31,7 +30,6 @@ footer {
         background-position: center;
         opacity: 0.5; /* Adjust the opacity as needed */
     }
-
 
 .todo-app {
     width: 100%;
