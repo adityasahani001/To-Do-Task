@@ -139,6 +139,7 @@ ul li span {
 ul li:hover{
     background: rgba(3, 0, 0, 0);
 }
+
 ul li span:hover {
     background: #f2f2f2;
 }
