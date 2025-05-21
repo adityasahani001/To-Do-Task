@@ -83,7 +83,6 @@ button {
     border-radius: 25px;
     transition: background 0.3s ease;
 
-
 button:hover {
     background: #ff4232;
 }
