@@ -135,7 +135,6 @@ ul li span {
     transition: background 0.3s ease;
 }
 
-
 ul li:hover{
     background: rgba(3, 0, 0, 0);
 }
