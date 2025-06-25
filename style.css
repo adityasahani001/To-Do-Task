@@ -96,7 +96,6 @@ ul li {
     position: relative;
 }
 
-
 ul li::before {
     content:'';
     position:absolute;
